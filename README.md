@@ -33,3 +33,5 @@ A high-performance **Computer Vision system** capable of classifying images as "
   python main.py
   ```
 * Enter Image Path When prompted
+
+Dataset taken from - https://github.com/balajisrinivas/Face-Mask-Detection/tree/master/dataset
